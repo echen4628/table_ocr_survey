@@ -1,0 +1,7 @@
+google-genai
+python-dotenv
+pdf2image
+pydantic==2.10.6
+matplotlib
+pandas
+beautifulsoup4

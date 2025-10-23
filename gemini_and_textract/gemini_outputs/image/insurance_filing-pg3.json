@@ -1,0 +1,7 @@
+[
+    {
+        "table_html": "<table><thead><tr><th>Policy Form</th><th>Indicated Rate Level Change</th><th>Proposed Rate Level Change</th></tr></thead><tbody><tr><td>HO-3</td><td>19.9%</td><td>12.9%</td></tr><tr><td>HO-4</td><td>28.7%</td><td>13.1%</td></tr><tr><td>HO-6</td><td>19.0%</td><td>11.7%</td></tr><tr><td>HO-8*</td><td>N/A</td><td>10.1%</td></tr><tr><td>Overall</td><td>19.7%</td><td>12.4%</td></tr></tbody></table>",
+        "description": "This table presents the indicated and proposed rate level changes for various policy forms, with all values shown as percentages. The HO-8* policy form has a note indicating that HO-3 and HO-8 are on a combined basis.",
+        "ambiguity": []
+    }
+]
